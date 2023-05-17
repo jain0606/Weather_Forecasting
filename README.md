@@ -25,7 +25,7 @@ This is a Python script that fetches weather data from the OpenWeatherMap API an
 5. Replace the API_KEY variable with your OpenWeatherMap API key.
 
 6. Run thje script:
-     '''
+    
     python weather_forecast.py
 
 7. Enter one or more city names when prompted.
