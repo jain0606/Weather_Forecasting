@@ -25,7 +25,7 @@ This is a Python script that fetches weather data from the OpenWeatherMap API an
 5. Replace the API_KEY variable with your OpenWeatherMap API key.
 
 6. Run thje script:
-```bash
+     '''
     python weather_forecast.py
 
 7. Enter one or more city names when prompted.
@@ -39,7 +39,7 @@ Contributions are welcome! If you find any issues or want to add new features, f
 ## License
 This project is licensed under the MIT License.
 
-'''vbnet
+
 Feel free to modify the content of the `README.md` file according to your project's specific requirements and information.
 
 Save the file in the same directory as your project files, and it will serve as the project's documentation. It's good practice to include a `README` file to provide instructions and information for other users or collaborators who may access your project.
